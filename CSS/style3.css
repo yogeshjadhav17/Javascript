@@ -1,0 +1,100 @@
+.body{
+    background-color: aliceblue;
+    
+}
+.footer li:hover{
+    background-color: #555 ;
+    color:white;
+}
+.nav li{
+    display:inline-block;
+    cursor:pointer;
+    padding:25px;
+}
+p{
+    background-color: lightcoral;
+    color:black;
+    width:1400px;
+    height:auto;
+    border:100px;
+    padding:40px;
+}
+.footer li{
+    display:inline-block;
+    position: relative;
+    padding:15px;
+    cursor: pointer;
+}
+.nav li.active{
+    background-color: #04AA6D;
+    color:white;
+}
+.nav li:hover{
+    background-color: green;
+    color:black;
+}
+.nav{
+    
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 15px;
+    display:inline;
+    width:1400px;
+    display:inline;
+    height: auto;
+    margin:20px;
+    padding:20px;
+    text-transform: capitalize;
+    position: relative;
+    
+}
+
+.nav li{
+    list-style-type: none;
+    text-decoration: none;
+    display:inline-block;
+
+}
+.leftfooter{
+    background-color: bisque;
+    color:black;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 15px;
+    display:inline;
+    width:1200px;
+    text-transform: capitalize;
+    position: relative;
+}
+
+.footer{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 15px;
+    display:inline;
+    width:1200px;
+    height: auto;
+    padding:20px;
+    text-transform: capitalize;
+    position: relative;
+}
+
+.para{
+    background-color: lightcyan;
+    color:black;
+    font-size:17px;
+    font-weight: 600;
+    text-transform: capitalize;
+    width:1000px;
+    height:auto;
+}
+
+.courses{
+    background-color: azure;
+    color:black;
+    font-size:18px;
+    font-weight: 600;
+    text-transform: capitalize;
+    width:1000px;
+    height:auto;
+}
